@@ -13,7 +13,6 @@
 ### 👩‍💻 Sobre mim
 
 - 💻 Faço **Ensino Médio Integrado em Informática no IFCE**
-- ✅ Já estudei **Swift**, **SwiftUI** e **bancos de dados com SQL**
 - 🌱 Atualmente estudando **Dart** e **Flutter**
 - ✨ Tenho interesse em **desenvolver sites e apps úteis**
 - 🎯 Sonho em trabalhar com **tecnologia e transformar ideias em soluções**
