@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="github-header-banner.png" alt="banner" />
-</p>
+![banner](./github-header-banner.png)
 
 <h1 align="center">🌟 Olá, eu sou a Lara Yslen!</h1>
 
