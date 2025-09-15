@@ -1,10 +1,10 @@
-![banner](./github-header-banner.png)
+![Banner](./githubbanner.png)
 
 <h1 align="center">🌟 Olá, eu sou a Lara Yslen!</h1>
 
 <p align="center">
 🎓 Estudante de Informática no IFCE <br>
-📍 Fortaleza - CE
+📍 Fortaleza - CE | 
 </p>
 
 ---
@@ -27,8 +27,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
