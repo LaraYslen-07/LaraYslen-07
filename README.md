@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./github-header-banner.png" alt="banner" />
-</div>
+<p align="center">
+  <img src="github-header-banner.png" alt="banner" />
+</p>
 
 <h1 align="center">🌟 Olá, eu sou a Lara Yslen!</h1>
 
@@ -14,7 +14,8 @@
 ### 👩‍💻 Sobre mim
 
 - 💻 Faço **Ensino Médio Integrado em Informática no IFCE**
-- 🌱 Atualmente estudando **Swift**, **SwiftUI** e **bancos de dados com SQL**
+- ✅ Já estudei **Swift**, **SwiftUI** e **bancos de dados com SQL**
+- 🌱 Atualmente estudando **Dart** e **Flutter**
 - ✨ Tenho interesse em **desenvolver sites e apps úteis**
 - 🎯 Sonho em trabalhar com **tecnologia e transformar ideias em soluções**
 
@@ -28,13 +29,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
 ### 📚 Estudando agora
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
