@@ -1,4 +1,4 @@
-![Banner](./githubbanner.png)
+![Header](./githubbanner.png)
 
 <h1 align="center">🌟 Olá, eu sou a Lara Yslen!</h1>
 
