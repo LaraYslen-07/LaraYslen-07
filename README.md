@@ -1,7 +1,7 @@
 ![Header](./githubbanner.png)
 
 
-<h1 align="center">🌟 Olá, eu sou a Lara Yslen!</h1>
+<h1 align="center">🌟 Eu sou a Lara Yslen!</h1>
 
 <p align="center">
 🎓 Estudante de Informática no IFCE <br>
